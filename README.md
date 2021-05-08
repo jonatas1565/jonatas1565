@@ -1,6 +1,6 @@
 
 ### Oiii 👋
-Eu estou estudando a área de denvolvimento web.
+Eu estou estudando a área de desenvolvimento web.
 - 💻 Estou aprendendo HTML, CSS, JAVASCRIPT (No momento).
 - 💻 E quero aprender ainda mais sobre desenvolvimento e tecnologias utilizadas.
 - 🤜🤛 Almejo colaborar com projetos e ter ajuda com os meus. 
