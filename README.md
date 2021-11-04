@@ -1,9 +1,7 @@
 
 ### Oiii 👋
-Eu estou estudando a área de desenvolvimento web.
-- 💻 Estou aprendendo HTML, CSS, JAVASCRIPT (No momento).
-- 💻 E quero aprender ainda mais sobre desenvolvimento e tecnologias utilizadas.
-- 🤜🤛 Almejo colaborar com projetos e ter ajuda com os meus. 
+##Eu estou estudando a área de desenvolvimento Front End.
+
 
 [![card](https://github-readme-stats.vercel.app/api?username=jonatas1565&theme=radical)](https://github.com/iuricode/)
 
