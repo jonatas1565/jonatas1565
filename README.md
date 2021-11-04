@@ -1,6 +1,6 @@
 
 ### Oiii 👋
-##Eu estou estudando a área de desenvolvimento Front End.
+## Eu estou estudando a área de desenvolvimento Front End.
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=jonatas1565&theme=radical)](https://github.com/iuricode/)
