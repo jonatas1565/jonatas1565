@@ -1,4 +1,5 @@
 <h1 align="center">Olá, sou o jônatas!👋</h1>
+<p align="center"><b>Desenvolvedor Front End</b></p>
 
 ###
 <div align="center">
